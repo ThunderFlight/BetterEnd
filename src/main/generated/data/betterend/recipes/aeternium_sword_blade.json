@@ -1,7 +1,7 @@
 {
   "type": "bclib:smithing",
   "anvilLevel": 5,
-  "damage": 6,
+  "damage": 9999,
   "input": {
     "item": "betterend:aeternium_ingot"
   },
